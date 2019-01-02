@@ -1,2 +1,2 @@
-# sunny_K_Landing
+# Sunny_K_Landing
 Personal webpage 
